@@ -1,0 +1,33 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: red;
+  margin-top: 30px;
+}
+
+
+.img-circle {
+    border-radius: 15%;
+}
+
+h1.title {
+  padding: 0 30px 30px 0;
+}
+h2.page-header{
+  font-size: 22px;
+  color: red;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+.games {
+  font-size: 0.4em;
+  padding: 3px;
+  vertical-align: middle;
+}
+
+.rosters li {
+  line-height: 28px;
+}
+
